@@ -1,0 +1,76 @@
+MDC_DESC,Outcome,Value
+Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,Percent of Inpatient Deaths,1.5
+Burns,Percent of Inpatient Deaths,3
+"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",Percent of Inpatient Deaths,8.4
+Diseases & Disorders of the Circulatory System,Percent of Inpatient Deaths,5.4
+Diseases & Disorders of the Digestive System,Percent of Inpatient Deaths,5.6
+"Diseases & Disorders of the Ear, Nose, Mouth & Throat",Percent of Inpatient Deaths,1.6
+Diseases & Disorders of the Eye,Percent of Inpatient Deaths,3
+Diseases & Disorders of the Female Reproductive System,Percent of Inpatient Deaths,0
+Diseases & Disorders of the Hepatobiliary System & Pancreas,Percent of Inpatient Deaths,7.8
+Diseases & Disorders of the Kidney & Urinary Tract,Percent of Inpatient Deaths,6
+Diseases & Disorders of the Male Reproductive System,Percent of Inpatient Deaths,2
+Diseases & Disorders of the Musculoskeletal System & Connective Tissue,Percent of Inpatient Deaths,2.8
+Diseases & Disorders of the Nervous System,Percent of Inpatient Deaths,6.3
+Diseases & Disorders of the Respiratory System,Percent of Inpatient Deaths,15.8
+"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",Percent of Inpatient Deaths,3.9
+"Endocrine, Nutritional & Metabolic Diseases & Disorders",Percent of Inpatient Deaths,4.3
+Factors Influencing Health Status & Other Contacts with Health Services,Percent of Inpatient Deaths,5.3
+"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",Percent of Inpatient Deaths,14.3
+"Injuries, Poisonings & Toxic Effects of Drugs",Percent of Inpatient Deaths,5.5
+Mental Diseases & Disorders,Percent of Inpatient Deaths,1.3
+Multiple Significant Trauma,Percent of Inpatient Deaths,2.4
+"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",Percent of Inpatient Deaths,8.9
+Newborns & Other Neonates with Conditions Originating in Perinatal Period,Percent of Inpatient Deaths,0
+Transplants and Tracheostomies (PRE-MDC),Percent of Inpatient Deaths,19.7
+"Pregnancy, Childbirth & the Puerperium",Percent of Inpatient Deaths,0.5
+Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,Percent of Leaving Against Medical Advice (AMA),11.6
+Burns,Percent of Leaving Against Medical Advice (AMA),9.1
+"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",Percent of Leaving Against Medical Advice (AMA),5.5
+Diseases & Disorders of the Circulatory System,Percent of Leaving Against Medical Advice (AMA),1.5
+Diseases & Disorders of the Digestive System,Percent of Leaving Against Medical Advice (AMA),2.5
+"Diseases & Disorders of the Ear, Nose, Mouth & Throat",Percent of Leaving Against Medical Advice (AMA),3.3
+Diseases & Disorders of the Eye,Percent of Leaving Against Medical Advice (AMA),6.1
+Diseases & Disorders of the Female Reproductive System,Percent of Leaving Against Medical Advice (AMA),3.1
+Diseases & Disorders of the Hepatobiliary System & Pancreas,Percent of Leaving Against Medical Advice (AMA),1.6
+Diseases & Disorders of the Kidney & Urinary Tract,Percent of Leaving Against Medical Advice (AMA),1
+Diseases & Disorders of the Male Reproductive System,Percent of Leaving Against Medical Advice (AMA),3.9
+Diseases & Disorders of the Musculoskeletal System & Connective Tissue,Percent of Leaving Against Medical Advice (AMA),1.6
+Diseases & Disorders of the Nervous System,Percent of Leaving Against Medical Advice (AMA),1.3
+Diseases & Disorders of the Respiratory System,Percent of Leaving Against Medical Advice (AMA),1.9
+"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",Percent of Leaving Against Medical Advice (AMA),5.5
+"Endocrine, Nutritional & Metabolic Diseases & Disorders",Percent of Leaving Against Medical Advice (AMA),2.8
+Factors Influencing Health Status & Other Contacts with Health Services,Percent of Leaving Against Medical Advice (AMA),0.8
+"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",Percent of Leaving Against Medical Advice (AMA),2.1
+"Injuries, Poisonings & Toxic Effects of Drugs",Percent of Leaving Against Medical Advice (AMA),4.8
+Mental Diseases & Disorders,Percent of Leaving Against Medical Advice (AMA),1.3
+Multiple Significant Trauma,Percent of Leaving Against Medical Advice (AMA),2.1
+"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",Percent of Leaving Against Medical Advice (AMA),0.5
+Newborns & Other Neonates with Conditions Originating in Perinatal Period,Percent of Leaving Against Medical Advice (AMA),0
+Transplants and Tracheostomies (PRE-MDC),Percent of Leaving Against Medical Advice (AMA),0.7
+"Pregnancy, Childbirth & the Puerperium",Percent of Leaving Against Medical Advice (AMA),2.5
+Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,Median Length of Stay,4
+Burns,Median Length of Stay,6
+"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",Median Length of Stay,5
+Diseases & Disorders of the Circulatory System,Median Length of Stay,5
+Diseases & Disorders of the Digestive System,Median Length of Stay,5
+"Diseases & Disorders of the Ear, Nose, Mouth & Throat",Median Length of Stay,4
+Diseases & Disorders of the Eye,Median Length of Stay,5
+Diseases & Disorders of the Female Reproductive System,Median Length of Stay,5
+Diseases & Disorders of the Hepatobiliary System & Pancreas,Median Length of Stay,5
+Diseases & Disorders of the Kidney & Urinary Tract,Median Length of Stay,5.5
+Diseases & Disorders of the Male Reproductive System,Median Length of Stay,6
+Diseases & Disorders of the Musculoskeletal System & Connective Tissue,Median Length of Stay,6
+Diseases & Disorders of the Nervous System,Median Length of Stay,5
+Diseases & Disorders of the Respiratory System,Median Length of Stay,7
+"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",Median Length of Stay,6
+"Endocrine, Nutritional & Metabolic Diseases & Disorders",Median Length of Stay,5
+Factors Influencing Health Status & Other Contacts with Health Services,Median Length of Stay,4
+"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",Median Length of Stay,8
+"Injuries, Poisonings & Toxic Effects of Drugs",Median Length of Stay,5
+Mental Diseases & Disorders,Median Length of Stay,5
+Multiple Significant Trauma,Median Length of Stay,6
+"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",Median Length of Stay,11
+Newborns & Other Neonates with Conditions Originating in Perinatal Period,Median Length of Stay,14
+Transplants and Tracheostomies (PRE-MDC),Median Length of Stay,29
+"Pregnancy, Childbirth & the Puerperium",Median Length of Stay,4

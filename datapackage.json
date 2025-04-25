@@ -1,0 +1,129 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "HCAI Patient Discharge Data (PDD)",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data-and-reports/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "Any MDC per hospital grouping with less than 11 encounters has a ‘Less than 11’ label",
+  "description": "The three datasets (i.e., Transfer-Encounters, Transfer-Outcomes, Transfer-Locations) provide the number of hospital transfers and Major Diagnostic Categories (MDCs). The Transfer-Encounters Dataset provides transfer counts by patient characteristics (i.e., Race/Ethnicity, Language Group, Expected Payer, Age Group and Assigned Sex at Birth) for each MDC. The Transfer-Outcomes shows the transfer outcomes (i.e., Median Length of Stay, Percent of Leaving Against Medical Advice and Percent of Inpatient Death) by MDC. The Transfer-Location dataset shows the locations of Acute Care Hospitals which received at least 25 transfers by MDC.",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "statewide",
+  "keywords": [
+    "department of health care access and information",
+    "hcai",
+    "healthcare encounters",
+    "hospitals",
+    "inpatient discharges",
+    "outcomes",
+    "transfers"
+  ],
+  "limitations": "Limitations",
+  "name": "acute-care-hospital-transfers-by-major-diagnostic-category-mdc",
+  "program_web_page": "https://hcai.ca.gov/visualizations/",
+  "related_resources": "",
+  "resources": [
+    {
+      "format": "XLSX",
+      "name": "hospital-transfers-by-major-diagnostic-category-mdc-encounters",
+      "path": "hospital-transfers-by-major-diagnostic-category-mdc-encounters.xlsx",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3f169603-e8f5-488d-bbbe-22c2c9c98b60/resource/fb239b03-d700-475c-9ef3-a4152df614f8/download/transfer-encounters.xlsx",
+          "title": "Hospital Transfers by Major Diagnostic Category (MDC) - Encounters"
+        }
+      ],
+      "title": "Hospital Transfers by Major Diagnostic Category (MDC) - Encounters"
+    },
+    {
+      "format": "XLSX",
+      "name": "hospital-transfers-by-major-diagnostic-category-mdc-locations",
+      "path": "hospital-transfers-by-major-diagnostic-category-mdc-locations.xlsx",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3f169603-e8f5-488d-bbbe-22c2c9c98b60/resource/b9532022-a463-4b95-bd45-3ca979fe3a76/download/transfers-locations.xlsx",
+          "title": "Hospital Transfers by Major Diagnostic Category (MDC) - Locations"
+        }
+      ],
+      "title": "Hospital Transfers by Major Diagnostic Category (MDC) - Locations"
+    },
+    {
+      "format": "XLSX",
+      "name": "hospital-transfers-by-major-diagnostic-category-mdc-outcomes",
+      "path": "hospital-transfers-by-major-diagnostic-category-mdc-outcomes.xlsx",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3f169603-e8f5-488d-bbbe-22c2c9c98b60/resource/b2f1da73-46e8-4ba5-b9b7-8207a36feedc/download/transfers-outcomes.xlsx",
+          "title": "Hospital Transfers by Major Diagnostic Category (MDC) - Outcomes"
+        }
+      ],
+      "title": "Hospital Transfers by Major Diagnostic Category (MDC) - Outcomes"
+    },
+    {
+      "format": "CSV",
+      "name": "data-dictionary-transfers",
+      "path": "data-dictionary-transfers.csv",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3f169603-e8f5-488d-bbbe-22c2c9c98b60/resource/73b475da-911d-4618-8dba-e13df9e92f8b/download/data-dictionary-transfers-encounters.csv",
+          "title": "Data Dictionary - Transfers"
+        }
+      ],
+      "title": "Data Dictionary - Transfers"
+    },
+    {
+      "format": "CSV",
+      "name": "data-dictionary-locations",
+      "path": "data-dictionary-locations.csv",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3f169603-e8f5-488d-bbbe-22c2c9c98b60/resource/58f8d99f-7e04-4cb0-9241-b41e312b4d22/download/data-dictionary-transfers-locations.csv",
+          "title": "Data Dictionary - Locations"
+        }
+      ],
+      "title": "Data Dictionary - Locations"
+    },
+    {
+      "format": "CSV",
+      "hash": "d2078b64b0abdba7f0b359870eabc3fc",
+      "name": "data-dictionary-outcomes",
+      "path": "data-dictionary-outcomes.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field Title",
+            "type": "string"
+          },
+          {
+            "name": "Field Name",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3f169603-e8f5-488d-bbbe-22c2c9c98b60/resource/f669a146-9bcf-49ef-ab34-80fff87ec1f8/download/data-dictionary-transfers-outcomes.csv",
+          "title": "Data Dictionary - Outcomes"
+        }
+      ],
+      "title": "Data Dictionary - Outcomes"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Healthcare Analytics Branch",
+      "web": "https://hcai.ca.gov/data-and-reports/healthcare-utilization/ or https://hcai.ca.gov/visualizations/"
+    }
+  ],
+  "temporal_coverage": "January 2021 - December 2021, updated on an annual basis",
+  "title": "Acute Care Hospital Transfers by Major Diagnostic Category (MDC)"
+}

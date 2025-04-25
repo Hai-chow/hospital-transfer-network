@@ -1,0 +1,545 @@
+Category,Subcategory,MDC_DESC,TransferPercent,TransferCount
+Overall,,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.7%,198
+Overall,,Burns,1.7%,33
+Overall,,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,344
+Overall,,Diseases & Disorders of the Circulatory System,2.9%,"9,468"
+Overall,,Diseases & Disorders of the Digestive System,1.0%,"2,045"
+Overall,,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,123
+Overall,,Diseases & Disorders of the Eye,1.0%,33
+Overall,,Diseases & Disorders of the Female Reproductive System,0.4%,96
+Overall,,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.6%,"1,508"
+Overall,,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,"1,174"
+Overall,,Diseases & Disorders of the Male Reproductive System,0.6%,51
+Overall,,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,"2,146"
+Overall,,Diseases & Disorders of the Nervous System,2.1%,"3,425"
+Overall,,Diseases & Disorders of the Respiratory System,1.7%,"3,914"
+Overall,,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.9%,435
+Overall,,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,822
+Overall,,Factors Influencing Health Status & Other Contacts with Health Services,1.1%,131
+Overall,,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.5%,"6,887"
+Overall,,"Injuries, Poisonings & Toxic Effects of Drugs",1.5%,565
+Overall,,Mental Diseases & Disorders,0.7%,77
+Overall,,Multiple Significant Trauma,4.0%,381
+Overall,,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.9%,416
+Overall,,Newborns & Other Neonates with Conditions Originating in Perinatal Period,4.2%,57
+Overall,,Transplants and Tracheostomies (PRE-MDC),13.4%,"1,806"
+Overall,,"Pregnancy, Childbirth & the Puerperium",0.4%,"1,304"
+Sex,Female,Overall,1.3%,"16,739"
+Sex,Male,Overall,2.0%,"20,969"
+Sex,Female,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.6%,47
+Sex,Male,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.7%,151
+Sex,Female,Burns,1.9%,12
+Sex,Male,Burns,1.6%,21
+Sex,Female,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,188
+Sex,Male,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,156
+Sex,Female,Diseases & Disorders of the Circulatory System,2.5%,"3,481"
+Sex,Male,Diseases & Disorders of the Circulatory System,3.2%,"5,987"
+Sex,Female,Diseases & Disorders of the Digestive System,0.9%,"1,017"
+Sex,Male,Diseases & Disorders of the Digestive System,1.0%,"1,028"
+Sex,Female,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,58
+Sex,Male,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,65
+Sex,Female,Diseases & Disorders of the Eye,1.1%,17
+Sex,Male,Diseases & Disorders of the Eye,0.9%,16
+Sex,Female,Diseases & Disorders of the Female Reproductive System,0.4%,96
+Sex,Male,Diseases & Disorders of the Female Reproductive System,0.0%,0
+Sex,Female,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.5%,726
+Sex,Male,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,782
+Sex,Female,Diseases & Disorders of the Kidney & Urinary Tract,0.8%,459
+Sex,Male,Diseases & Disorders of the Kidney & Urinary Tract,1.2%,715
+Sex,Female,Diseases & Disorders of the Male Reproductive System,0.0%,0
+Sex,Male,Diseases & Disorders of the Male Reproductive System,0.6%,51
+Sex,Female,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,"1,130"
+Sex,Male,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.2%,"1,016"
+Sex,Female,Diseases & Disorders of the Nervous System,1.9%,"1,507"
+Sex,Male,Diseases & Disorders of the Nervous System,2.3%,"1,918"
+Sex,Female,Diseases & Disorders of the Respiratory System,1.5%,"1,669"
+Sex,Male,Diseases & Disorders of the Respiratory System,1.8%,"2,245"
+Sex,Female,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.8%,187
+Sex,Male,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.9%,248
+Sex,Female,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,400
+Sex,Male,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.9%,422
+Sex,Female,Factors Influencing Health Status & Other Contacts with Health Services,1.1%,67
+Sex,Male,Factors Influencing Health Status & Other Contacts with Health Services,1.1%,64
+Sex,Female,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.3%,"2,942"
+Sex,Male,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.7%,"3,945"
+Sex,Female,"Injuries, Poisonings & Toxic Effects of Drugs",1.5%,262
+Sex,Male,"Injuries, Poisonings & Toxic Effects of Drugs",1.5%,303
+Sex,Female,Mental Diseases & Disorders,0.7%,39
+Sex,Male,Mental Diseases & Disorders,0.7%,38
+Sex,Female,Multiple Significant Trauma,4.2%,129
+Sex,Male,Multiple Significant Trauma,4.0%,251
+Sex,Female,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.0%,186
+Sex,Male,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.8%,230
+Sex,Female,Newborns & Other Neonates with Conditions Originating in Perinatal Period,3.8%,24
+Sex,Male,Newborns & Other Neonates with Conditions Originating in Perinatal Period,4.5%,33
+Sex,Female,Transplants and Tracheostomies (PRE-MDC),13.9%,696
+Sex,Male,Transplants and Tracheostomies (PRE-MDC),13.1%,"1,110"
+Sex,Female,"Pregnancy, Childbirth & the Puerperium",0.4%,"1,304"
+Sex,Male,"Pregnancy, Childbirth & the Puerperium",0.0%,0
+Payer,Medi-Cal,Overall,1.2%,"7,530"
+Payer,Medicare,Overall,2.0%,"20,385"
+Payer,Other Payer,Overall,1.0%,630
+Payer,Private Coverage,Overall,1.4%,"8,853"
+Payer,Self Pay,Overall,1.2%,311
+Payer,Medi-Cal,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.5%,82
+Payer,Medicare,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,1.1%,51
+Payer,Other Payer,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.9%,Less than 11
+Payer,Private Coverage,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,1.1%,59
+Payer,Self Pay,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.0%,0
+Payer,Medi-Cal,Burns,1.2%,11
+Payer,Medicare,Burns,1.6%,Less than 11
+Payer,Other Payer,Burns,1.3%,Less than 11
+Payer,Private Coverage,Burns,3.8%,12
+Payer,Self Pay,Burns,0.0%,0
+Payer,Medi-Cal,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.4%,98
+Payer,Medicare,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,164
+Payer,Other Payer,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",0.4%,Less than 11
+Payer,Private Coverage,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.4%,74
+Payer,Self Pay,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.2%,Less than 11
+Payer,Medi-Cal,Diseases & Disorders of the Circulatory System,2.2%,"1,402"
+Payer,Medicare,Diseases & Disorders of the Circulatory System,2.9%,"5,759"
+Payer,Other Payer,Diseases & Disorders of the Circulatory System,2.0%,143
+Payer,Private Coverage,Diseases & Disorders of the Circulatory System,4.2%,"2,087"
+Payer,Self Pay,Diseases & Disorders of the Circulatory System,2.4%,77
+Payer,Medi-Cal,Diseases & Disorders of the Digestive System,0.8%,409
+Payer,Medicare,Diseases & Disorders of the Digestive System,1.1%,"1,106"
+Payer,Other Payer,Diseases & Disorders of the Digestive System,0.6%,29
+Payer,Private Coverage,Diseases & Disorders of the Digestive System,0.9%,488
+Payer,Self Pay,Diseases & Disorders of the Digestive System,0.5%,13
+Payer,Medi-Cal,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.7%,36
+Payer,Medicare,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,48
+Payer,Other Payer,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,Less than 11
+Payer,Private Coverage,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,31
+Payer,Self Pay,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.7%,Less than 11
+Payer,Medi-Cal,Diseases & Disorders of the Eye,0.8%,Less than 11
+Payer,Medicare,Diseases & Disorders of the Eye,1.3%,17
+Payer,Other Payer,Diseases & Disorders of the Eye,0.0%,0
+Payer,Private Coverage,Diseases & Disorders of the Eye,1.0%,Less than 11
+Payer,Self Pay,Diseases & Disorders of the Eye,0.0%,0
+Payer,Medi-Cal,Diseases & Disorders of the Female Reproductive System,0.5%,36
+Payer,Medicare,Diseases & Disorders of the Female Reproductive System,0.6%,25
+Payer,Other Payer,Diseases & Disorders of the Female Reproductive System,0.2%,Less than 11
+Payer,Private Coverage,Diseases & Disorders of the Female Reproductive System,0.3%,33
+Payer,Self Pay,Diseases & Disorders of the Female Reproductive System,0.4%,Less than 11
+Payer,Medi-Cal,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.5%,485
+Payer,Medicare,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,556
+Payer,Other Payer,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.0%,20
+Payer,Private Coverage,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,429
+Payer,Self Pay,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.1%,18
+Payer,Medi-Cal,Diseases & Disorders of the Kidney & Urinary Tract,0.8%,186
+Payer,Medicare,Diseases & Disorders of the Kidney & Urinary Tract,1.1%,786
+Payer,Other Payer,Diseases & Disorders of the Kidney & Urinary Tract,0.7%,18
+Payer,Private Coverage,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,180
+Payer,Self Pay,Diseases & Disorders of the Kidney & Urinary Tract,0.4%,Less than 11
+Payer,Medi-Cal,Diseases & Disorders of the Male Reproductive System,1.1%,19
+Payer,Medicare,Diseases & Disorders of the Male Reproductive System,0.6%,25
+Payer,Other Payer,Diseases & Disorders of the Male Reproductive System,0.5%,Less than 11
+Payer,Private Coverage,Diseases & Disorders of the Male Reproductive System,0.3%,Less than 11
+Payer,Self Pay,Diseases & Disorders of the Male Reproductive System,0.0%,0
+Payer,Medi-Cal,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.0%,304
+Payer,Medicare,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.2%,"1,325"
+Payer,Other Payer,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,0.5%,55
+Payer,Private Coverage,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,445
+Payer,Self Pay,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.0%,17
+Payer,Medi-Cal,Diseases & Disorders of the Nervous System,1.7%,584
+Payer,Medicare,Diseases & Disorders of the Nervous System,2.2%,"1,977"
+Payer,Other Payer,Diseases & Disorders of the Nervous System,1.4%,64
+Payer,Private Coverage,Diseases & Disorders of the Nervous System,2.5%,779
+Payer,Self Pay,Diseases & Disorders of the Nervous System,1.1%,21
+Payer,Medi-Cal,Diseases & Disorders of the Respiratory System,1.4%,722
+Payer,Medicare,Diseases & Disorders of the Respiratory System,1.7%,"2,151"
+Payer,Other Payer,Diseases & Disorders of the Respiratory System,1.0%,62
+Payer,Private Coverage,Diseases & Disorders of the Respiratory System,1.9%,942
+Payer,Self Pay,Diseases & Disorders of the Respiratory System,1.5%,37
+Payer,Medi-Cal,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.7%,132
+Payer,Medicare,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",1.1%,221
+Payer,Other Payer,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.5%,Less than 11
+Payer,Private Coverage,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.8%,71
+Payer,Self Pay,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.4%,Less than 11
+Payer,Medi-Cal,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.6%,190
+Payer,Medicare,"Endocrine, Nutritional & Metabolic Diseases & Disorders",1.0%,439
+Payer,Other Payer,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.4%,11
+Payer,Private Coverage,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,176
+Payer,Self Pay,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.5%,Less than 11
+Payer,Medi-Cal,Factors Influencing Health Status & Other Contacts with Health Services,1.4%,34
+Payer,Medicare,Factors Influencing Health Status & Other Contacts with Health Services,1.2%,67
+Payer,Other Payer,Factors Influencing Health Status & Other Contacts with Health Services,0.4%,Less than 11
+Payer,Private Coverage,Factors Influencing Health Status & Other Contacts with Health Services,0.8%,23
+Payer,Self Pay,Factors Influencing Health Status & Other Contacts with Health Services,2.8%,Less than 11
+Payer,Medi-Cal,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.2%,"1,382"
+Payer,Medicare,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.6%,"4,049"
+Payer,Other Payer,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.2%,109
+Payer,Private Coverage,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.6%,"1,298"
+Payer,Self Pay,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",1.7%,49
+Payer,Medi-Cal,"Injuries, Poisonings & Toxic Effects of Drugs",1.1%,152
+Payer,Medicare,"Injuries, Poisonings & Toxic Effects of Drugs",1.8%,244
+Payer,Other Payer,"Injuries, Poisonings & Toxic Effects of Drugs",1.2%,18
+Payer,Private Coverage,"Injuries, Poisonings & Toxic Effects of Drugs",1.8%,144
+Payer,Self Pay,"Injuries, Poisonings & Toxic Effects of Drugs",0.8%,Less than 11
+Payer,Medi-Cal,Mental Diseases & Disorders,1.2%,40
+Payer,Medicare,Mental Diseases & Disorders,0.6%,27
+Payer,Other Payer,Mental Diseases & Disorders,0.1%,Less than 11
+Payer,Private Coverage,Mental Diseases & Disorders,0.4%,Less than 11
+Payer,Self Pay,Mental Diseases & Disorders,0.6%,Less than 11
+Payer,Medi-Cal,Multiple Significant Trauma,2.4%,88
+Payer,Medicare,Multiple Significant Trauma,4.2%,111
+Payer,Other Payer,Multiple Significant Trauma,1.4%,Less than 11
+Payer,Private Coverage,Multiple Significant Trauma,7.6%,168
+Payer,Self Pay,Multiple Significant Trauma,2.0%,Less than 11
+Payer,Medi-Cal,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.1%,90
+Payer,Medicare,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.9%,159
+Payer,Other Payer,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",0.7%,Less than 11
+Payer,Private Coverage,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.0%,155
+Payer,Self Pay,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.2%,Less than 11
+Payer,Medi-Cal,Newborns & Other Neonates with Conditions Originating in Perinatal Period,2.3%,Less than 11
+Payer,Medicare,Newborns & Other Neonates with Conditions Originating in Perinatal Period,0.0%,0
+Payer,Other Payer,Newborns & Other Neonates with Conditions Originating in Perinatal Period,3.1%,Less than 11
+Payer,Private Coverage,Newborns & Other Neonates with Conditions Originating in Perinatal Period,5.1%,44
+Payer,Self Pay,Newborns & Other Neonates with Conditions Originating in Perinatal Period,3.0%,Less than 11
+Payer,Medi-Cal,Transplants and Tracheostomies (PRE-MDC),10.6%,366
+Payer,Medicare,Transplants and Tracheostomies (PRE-MDC),16.6%,927
+Payer,Other Payer,Transplants and Tracheostomies (PRE-MDC),6.1%,27
+Payer,Private Coverage,Transplants and Tracheostomies (PRE-MDC),12.0%,473
+Payer,Self Pay,Transplants and Tracheostomies (PRE-MDC),10.9%,13
+Payer,Medi-Cal,"Pregnancy, Childbirth & the Puerperium",0.4%,579
+Payer,Medicare,"Pregnancy, Childbirth & the Puerperium",0.8%,13
+Payer,Other Payer,"Pregnancy, Childbirth & the Puerperium",0.2%,21
+Payer,Private Coverage,"Pregnancy, Childbirth & the Puerperium",0.3%,672
+Payer,Self Pay,"Pregnancy, Childbirth & the Puerperium",0.7%,19
+Age,0 to 18,Overall,0.9%,407
+Age,19 to 34,Overall,0.7%,"3,080"
+Age,35 to 64,Overall,1.7%,"14,484"
+Age,65+,Overall,1.9%,"19,738"
+Age,0 to 18,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.0%,0
+Age,19 to 34,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.4%,24
+Age,35 to 64,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.8%,141
+Age,65+,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,1.0%,33
+Age,0 to 18,Burns,0.0%,0
+Age,19 to 34,Burns,1.2%,Less than 11
+Age,35 to 64,Burns,2.0%,20
+Age,65+,Burns,2.2%,Less than 11
+Age,0 to 18,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",0.5%,Less than 11
+Age,19 to 34,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.5%,55
+Age,35 to 64,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.4%,129
+Age,65+,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,152
+Age,0 to 18,Diseases & Disorders of the Circulatory System,1.6%,23
+Age,19 to 34,Diseases & Disorders of the Circulatory System,2.4%,177
+Age,35 to 64,Diseases & Disorders of the Circulatory System,3.1%,"3,460"
+Age,65+,Diseases & Disorders of the Circulatory System,2.9%,"5,808"
+Age,0 to 18,Diseases & Disorders of the Digestive System,0.8%,52
+Age,19 to 34,Diseases & Disorders of the Digestive System,0.7%,135
+Age,35 to 64,Diseases & Disorders of the Digestive System,0.9%,783
+Age,65+,Diseases & Disorders of the Digestive System,1.1%,"1,075"
+Age,0 to 18,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.5%,Less than 11
+Age,19 to 34,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.3%,Less than 11
+Age,35 to 64,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",1.0%,62
+Age,65+,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,46
+Age,0 to 18,Diseases & Disorders of the Eye,0.7%,Less than 11
+Age,19 to 34,Diseases & Disorders of the Eye,0.9%,Less than 11
+Age,35 to 64,Diseases & Disorders of the Eye,1.1%,16
+Age,65+,Diseases & Disorders of the Eye,0.9%,12
+Age,0 to 18,Diseases & Disorders of the Female Reproductive System,0.2%,Less than 11
+Age,19 to 34,Diseases & Disorders of the Female Reproductive System,0.5%,16
+Age,35 to 64,Diseases & Disorders of the Female Reproductive System,0.4%,54
+Age,65+,Diseases & Disorders of the Female Reproductive System,0.6%,25
+Age,0 to 18,Diseases & Disorders of the Hepatobiliary System & Pancreas,0.8%,Less than 11
+Age,19 to 34,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.4%,191
+Age,35 to 64,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,798
+Age,65+,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.6%,509
+Age,0 to 18,Diseases & Disorders of the Kidney & Urinary Tract,0.3%,Less than 11
+Age,19 to 34,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,67
+Age,35 to 64,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,382
+Age,65+,Diseases & Disorders of the Kidney & Urinary Tract,1.1%,719
+Age,0 to 18,Diseases & Disorders of the Male Reproductive System,0.0%,0
+Age,19 to 34,Diseases & Disorders of the Male Reproductive System,1.5%,Less than 11
+Age,35 to 64,Diseases & Disorders of the Male Reproductive System,0.6%,20
+Age,65+,Diseases & Disorders of the Male Reproductive System,0.5%,24
+Age,0 to 18,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,0.3%,13
+Age,19 to 34,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.2%,145
+Age,35 to 64,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.0%,656
+Age,65+,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.2%,"1,332"
+Age,0 to 18,Diseases & Disorders of the Nervous System,1.0%,40
+Age,19 to 34,Diseases & Disorders of the Nervous System,1.8%,202
+Age,35 to 64,Diseases & Disorders of the Nervous System,2.1%,"1,192"
+Age,65+,Diseases & Disorders of the Nervous System,2.2%,"1,991"
+Age,0 to 18,Diseases & Disorders of the Respiratory System,0.8%,46
+Age,19 to 34,Diseases & Disorders of the Respiratory System,1.4%,193
+Age,35 to 64,Diseases & Disorders of the Respiratory System,1.7%,"1,556"
+Age,65+,Diseases & Disorders of the Respiratory System,1.7%,"2,119"
+Age,0 to 18,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.5%,Less than 11
+Age,19 to 34,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.8%,45
+Age,35 to 64,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.8%,198
+Age,65+,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",1.0%,187
+Age,0 to 18,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.5%,15
+Age,19 to 34,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.5%,66
+Age,35 to 64,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,354
+Age,65+,"Endocrine, Nutritional & Metabolic Diseases & Disorders",1.0%,387
+Age,0 to 18,Factors Influencing Health Status & Other Contacts with Health Services,0.9%,Less than 11
+Age,19 to 34,Factors Influencing Health Status & Other Contacts with Health Services,0.5%,Less than 11
+Age,35 to 64,Factors Influencing Health Status & Other Contacts with Health Services,1.3%,55
+Age,65+,Factors Influencing Health Status & Other Contacts with Health Services,1.0%,69
+Age,0 to 18,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.2%,46
+Age,19 to 34,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.1%,405
+Age,35 to 64,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.6%,"2,671"
+Age,65+,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.5%,"3,765"
+Age,0 to 18,"Injuries, Poisonings & Toxic Effects of Drugs",1.0%,18
+Age,19 to 34,"Injuries, Poisonings & Toxic Effects of Drugs",1.2%,85
+Age,35 to 64,"Injuries, Poisonings & Toxic Effects of Drugs",1.4%,259
+Age,65+,"Injuries, Poisonings & Toxic Effects of Drugs",1.8%,203
+Age,0 to 18,Mental Diseases & Disorders,1.0%,Less than 11
+Age,19 to 34,Mental Diseases & Disorders,0.6%,14
+Age,35 to 64,Mental Diseases & Disorders,0.7%,29
+Age,65+,Mental Diseases & Disorders,0.6%,26
+Age,0 to 18,Multiple Significant Trauma,2.9%,Less than 11
+Age,19 to 34,Multiple Significant Trauma,3.7%,110
+Age,35 to 64,Multiple Significant Trauma,4.2%,146
+Age,65+,Multiple Significant Trauma,4.4%,115
+Age,0 to 18,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",0.5%,11
+Age,19 to 34,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.2%,47
+Age,35 to 64,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.1%,184
+Age,65+,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.9%,174
+Age,0 to 18,Newborns & Other Neonates with Conditions Originating in Perinatal Period,4.2%,57
+Age,19 to 34,Newborns & Other Neonates with Conditions Originating in Perinatal Period,0.0%,0
+Age,35 to 64,Newborns & Other Neonates with Conditions Originating in Perinatal Period,0.0%,0
+Age,65+,Newborns & Other Neonates with Conditions Originating in Perinatal Period,0.0%,0
+Age,0 to 18,Transplants and Tracheostomies (PRE-MDC),1.4%,Less than 11
+Age,19 to 34,Transplants and Tracheostomies (PRE-MDC),9.6%,108
+Age,35 to 64,Transplants and Tracheostomies (PRE-MDC),12.4%,848
+Age,65+,Transplants and Tracheostomies (PRE-MDC),15.8%,847
+Age,0 to 18,"Pregnancy, Childbirth & the Puerperium",0.5%,21
+Age,19 to 34,"Pregnancy, Childbirth & the Puerperium",0.4%,940
+Age,35 to 64,"Pregnancy, Childbirth & the Puerperium",0.4%,343
+Race,Asian/PI,Overall,1.7%,"3,481"
+Race,Black,Overall,1.8%,"3,844"
+Race,Hispanic,Overall,1.4%,"10,071"
+Race,Native American,Overall,1.7%,137
+Race,Other/Unknown,Overall,1.7%,"2,603"
+Race,White,Overall,1.6%,"17,573"
+Race,Asian/PI,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.7%,Less than 11
+Race,Black,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.6%,11
+Race,Hispanic,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.6%,43
+Race,Native American,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.7%,Less than 11
+Race,Other/Unknown,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.6%,Less than 11
+Race,White,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.8%,129
+Race,Asian/PI,Burns,2.2%,Less than 11
+Race,Black,Burns,2.7%,Less than 11
+Race,Hispanic,Burns,1.0%,Less than 11
+Race,Native American,Burns,0.0%,0
+Race,Other/Unknown,Burns,2.9%,Less than 11
+Race,White,Burns,1.5%,12
+Race,Asian/PI,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.1%,26
+Race,Black,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.6%,83
+Race,Hispanic,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,87
+Race,Native American,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",0.0%,0
+Race,Other/Unknown,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.2%,19
+Race,White,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,129
+Race,Asian/PI,Diseases & Disorders of the Circulatory System,3.7%,"1,037"
+Race,Black,Diseases & Disorders of the Circulatory System,2.7%,999
+Race,Hispanic,Diseases & Disorders of the Circulatory System,2.9%,"2,187"
+Race,Native American,Diseases & Disorders of the Circulatory System,2.0%,21
+Race,Other/Unknown,Diseases & Disorders of the Circulatory System,2.5%,539
+Race,White,Diseases & Disorders of the Circulatory System,2.9%,"4,685"
+Race,Asian/PI,Diseases & Disorders of the Digestive System,1.0%,187
+Race,Black,Diseases & Disorders of the Digestive System,1.0%,181
+Race,Hispanic,Diseases & Disorders of the Digestive System,0.9%,506
+Race,Native American,Diseases & Disorders of the Digestive System,1.1%,Less than 11
+Race,Other/Unknown,Diseases & Disorders of the Digestive System,1.0%,126
+Race,White,Diseases & Disorders of the Digestive System,1.0%,"1,037"
+Race,Asian/PI,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.7%,Less than 11
+Race,Black,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,13
+Race,Hispanic,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.7%,35
+Race,Native American,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.0%,0
+Race,Other/Unknown,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.4%,Less than 11
+Race,White,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.9%,60
+Race,Asian/PI,Diseases & Disorders of the Eye,1.4%,Less than 11
+Race,Black,Diseases & Disorders of the Eye,0.8%,Less than 11
+Race,Hispanic,Diseases & Disorders of the Eye,0.9%,Less than 11
+Race,Native American,Diseases & Disorders of the Eye,0.0%,0
+Race,Other/Unknown,Diseases & Disorders of the Eye,0.8%,Less than 11
+Race,White,Diseases & Disorders of the Eye,1.1%,14
+Race,Asian/PI,Diseases & Disorders of the Female Reproductive System,0.4%,Less than 11
+Race,Black,Diseases & Disorders of the Female Reproductive System,0.3%,Less than 11
+Race,Hispanic,Diseases & Disorders of the Female Reproductive System,0.4%,31
+Race,Native American,Diseases & Disorders of the Female Reproductive System,3.2%,Less than 11
+Race,Other/Unknown,Diseases & Disorders of the Female Reproductive System,0.7%,11
+Race,White,Diseases & Disorders of the Female Reproductive System,0.5%,34
+Race,Asian/PI,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.5%,116
+Race,Black,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,108
+Race,Hispanic,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.4%,542
+Race,Native American,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,Less than 11
+Race,Other/Unknown,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.4%,77
+Race,White,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.8%,658
+Race,Asian/PI,Diseases & Disorders of the Kidney & Urinary Tract,0.9%,85
+Race,Black,Diseases & Disorders of the Kidney & Urinary Tract,1.2%,137
+Race,Hispanic,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,302
+Race,Native American,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,Less than 11
+Race,Other/Unknown,Diseases & Disorders of the Kidney & Urinary Tract,1.2%,80
+Race,White,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,566
+Race,Asian/PI,Diseases & Disorders of the Male Reproductive System,1.1%,Less than 11
+Race,Black,Diseases & Disorders of the Male Reproductive System,0.9%,Less than 11
+Race,Hispanic,Diseases & Disorders of the Male Reproductive System,0.6%,15
+Race,Native American,Diseases & Disorders of the Male Reproductive System,0.0%,0
+Race,Other/Unknown,Diseases & Disorders of the Male Reproductive System,0.6%,Less than 11
+Race,White,Diseases & Disorders of the Male Reproductive System,0.5%,20
+Race,Asian/PI,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,132
+Race,Black,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.2%,162
+Race,Hispanic,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,433
+Race,Native American,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,2.0%,12
+Race,Other/Unknown,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.2%,135
+Race,White,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,"1,272"
+Race,Asian/PI,Diseases & Disorders of the Nervous System,2.6%,398
+Race,Black,Diseases & Disorders of the Nervous System,2.2%,361
+Race,Hispanic,Diseases & Disorders of the Nervous System,2.1%,851
+Race,Native American,Diseases & Disorders of the Nervous System,1.3%,Less than 11
+Race,Other/Unknown,Diseases & Disorders of the Nervous System,2.4%,271
+Race,White,Diseases & Disorders of the Nervous System,2.0%,"1,538"
+Race,Asian/PI,Diseases & Disorders of the Respiratory System,1.7%,318
+Race,Black,Diseases & Disorders of the Respiratory System,1.7%,396
+Race,Hispanic,Diseases & Disorders of the Respiratory System,1.7%,"1,139"
+Race,Native American,Diseases & Disorders of the Respiratory System,2.4%,20
+Race,Other/Unknown,Diseases & Disorders of the Respiratory System,1.6%,244
+Race,White,Diseases & Disorders of the Respiratory System,1.6%,"1,797"
+Race,Asian/PI,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.8%,21
+Race,Black,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.9%,42
+Race,Hispanic,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.9%,115
+Race,Native American,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",1.2%,Less than 11
+Race,Other/Unknown,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",1.0%,31
+Race,White,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.8%,223
+Race,Asian/PI,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,59
+Race,Black,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.9%,106
+Race,Hispanic,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,266
+Race,Native American,"Endocrine, Nutritional & Metabolic Diseases & Disorders",1.4%,Less than 11
+Race,Other/Unknown,"Endocrine, Nutritional & Metabolic Diseases & Disorders",1.1%,66
+Race,White,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,320
+Race,Asian/PI,Factors Influencing Health Status & Other Contacts with Health Services,1.0%,Less than 11
+Race,Black,Factors Influencing Health Status & Other Contacts with Health Services,1.1%,13
+Race,Hispanic,Factors Influencing Health Status & Other Contacts with Health Services,1.2%,35
+Race,Native American,Factors Influencing Health Status & Other Contacts with Health Services,0.0%,0
+Race,Other/Unknown,Factors Influencing Health Status & Other Contacts with Health Services,0.7%,Less than 11
+Race,White,Factors Influencing Health Status & Other Contacts with Health Services,1.1%,67
+Race,Asian/PI,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.4%,602
+Race,Black,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.9%,713
+Race,Hispanic,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.3%,"1,811"
+Race,Native American,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.7%,29
+Race,Other/Unknown,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",3.0%,534
+Race,White,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.5%,"3,198"
+Race,Asian/PI,"Injuries, Poisonings & Toxic Effects of Drugs",1.9%,44
+Race,Black,"Injuries, Poisonings & Toxic Effects of Drugs",1.4%,62
+Race,Hispanic,"Injuries, Poisonings & Toxic Effects of Drugs",1.3%,137
+Race,Native American,"Injuries, Poisonings & Toxic Effects of Drugs",0.0%,0
+Race,Other/Unknown,"Injuries, Poisonings & Toxic Effects of Drugs",1.7%,46
+Race,White,"Injuries, Poisonings & Toxic Effects of Drugs",1.5%,276
+Race,Asian/PI,Mental Diseases & Disorders,0.8%,Less than 11
+Race,Black,Mental Diseases & Disorders,0.5%,Less than 11
+Race,Hispanic,Mental Diseases & Disorders,0.9%,25
+Race,Native American,Mental Diseases & Disorders,0.0%,0
+Race,Other/Unknown,Mental Diseases & Disorders,1.1%,Less than 11
+Race,White,Mental Diseases & Disorders,0.5%,29
+Race,Asian/PI,Multiple Significant Trauma,3.9%,21
+Race,Black,Multiple Significant Trauma,4.0%,44
+Race,Hispanic,Multiple Significant Trauma,3.5%,98
+Race,Native American,Multiple Significant Trauma,0.0%,0
+Race,Other/Unknown,Multiple Significant Trauma,6.1%,56
+Race,White,Multiple Significant Trauma,4.0%,162
+Race,Asian/PI,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.7%,47
+Race,Black,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.5%,20
+Race,Hispanic,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.2%,140
+Race,Native American,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",3.6%,Less than 11
+Race,Other/Unknown,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.2%,30
+Race,White,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.8%,178
+Race,Asian/PI,Newborns & Other Neonates with Conditions Originating in Perinatal Period,4.3%,Less than 11
+Race,Black,Newborns & Other Neonates with Conditions Originating in Perinatal Period,5.3%,Less than 11
+Race,Hispanic,Newborns & Other Neonates with Conditions Originating in Perinatal Period,3.9%,25
+Race,Native American,Newborns & Other Neonates with Conditions Originating in Perinatal Period,0.0%,0
+Race,Other/Unknown,Newborns & Other Neonates with Conditions Originating in Perinatal Period,4.9%,Less than 11
+Race,White,Newborns & Other Neonates with Conditions Originating in Perinatal Period,3.8%,12
+Race,Asian/PI,Transplants and Tracheostomies (PRE-MDC),13.1%,188
+Race,Black,Transplants and Tracheostomies (PRE-MDC),13.0%,157
+Race,Hispanic,Transplants and Tracheostomies (PRE-MDC),13.3%,591
+Race,Native American,Transplants and Tracheostomies (PRE-MDC),20.0%,Less than 11
+Race,Other/Unknown,Transplants and Tracheostomies (PRE-MDC),14.6%,170
+Race,White,Transplants and Tracheostomies (PRE-MDC),13.3%,692
+Race,Asian/PI,"Pregnancy, Childbirth & the Puerperium",0.3%,119
+Race,Black,"Pregnancy, Childbirth & the Puerperium",0.7%,163
+Race,Hispanic,"Pregnancy, Childbirth & the Puerperium",0.4%,565
+Race,Native American,"Pregnancy, Childbirth & the Puerperium",0.6%,Less than 11
+Race,Other/Unknown,"Pregnancy, Childbirth & the Puerperium",0.4%,96
+Race,White,"Pregnancy, Childbirth & the Puerperium",0.3%,354
+Language,English Only,Overall,1.6%,"32,873"
+Language,Other/Unknown,Overall,1.6%,"1,564"
+Language,Spanish Only,Overall,1.6%,"3,272"
+Language,English Only,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.7%,191
+Language,Other/Unknown,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.5%,Less than 11
+Language,Spanish Only,Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders,0.5%,Less than 11
+Language,English Only,Burns,1.7%,29
+Language,Other/Unknown,Burns,1.4%,Less than 11
+Language,Spanish Only,Burns,2.2%,Less than 11
+Language,English Only,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.3%,295
+Language,Other/Unknown,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",0.9%,12
+Language,Spanish Only,"Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders",1.6%,37
+Language,English Only,Diseases & Disorders of the Circulatory System,3.0%,"8,270"
+Language,Other/Unknown,Diseases & Disorders of the Circulatory System,2.3%,380
+Language,Spanish Only,Diseases & Disorders of the Circulatory System,2.7%,818
+Language,English Only,Diseases & Disorders of the Digestive System,1.0%,"1,783"
+Language,Other/Unknown,Diseases & Disorders of the Digestive System,1.1%,99
+Language,Spanish Only,Diseases & Disorders of the Digestive System,0.8%,163
+Language,English Only,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.8%,109
+Language,Other/Unknown,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.5%,Less than 11
+Language,Spanish Only,"Diseases & Disorders of the Ear, Nose, Mouth & Throat",0.7%,Less than 11
+Language,English Only,Diseases & Disorders of the Eye,1.0%,27
+Language,Other/Unknown,Diseases & Disorders of the Eye,2.1%,Less than 11
+Language,Spanish Only,Diseases & Disorders of the Eye,0.8%,Less than 11
+Language,English Only,Diseases & Disorders of the Female Reproductive System,0.4%,84
+Language,Other/Unknown,Diseases & Disorders of the Female Reproductive System,0.4%,Less than 11
+Language,Spanish Only,Diseases & Disorders of the Female Reproductive System,0.4%,Less than 11
+Language,English Only,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.7%,"1,314"
+Language,Other/Unknown,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.6%,61
+Language,Spanish Only,Diseases & Disorders of the Hepatobiliary System & Pancreas,1.1%,133
+Language,English Only,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,"1,009"
+Language,Other/Unknown,Diseases & Disorders of the Kidney & Urinary Tract,0.8%,49
+Language,Spanish Only,Diseases & Disorders of the Kidney & Urinary Tract,1.0%,116
+Language,English Only,Diseases & Disorders of the Male Reproductive System,0.6%,40
+Language,Other/Unknown,Diseases & Disorders of the Male Reproductive System,1.0%,Less than 11
+Language,Spanish Only,Diseases & Disorders of the Male Reproductive System,0.8%,Less than 11
+Language,English Only,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,"1,954"
+Language,Other/Unknown,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,1.1%,75
+Language,Spanish Only,Diseases & Disorders of the Musculoskeletal System & Connective Tissue,0.9%,117
+Language,English Only,Diseases & Disorders of the Nervous System,2.1%,"2,937"
+Language,Other/Unknown,Diseases & Disorders of the Nervous System,2.3%,195
+Language,Spanish Only,Diseases & Disorders of the Nervous System,2.0%,293
+Language,English Only,Diseases & Disorders of the Respiratory System,1.7%,"3,326"
+Language,Other/Unknown,Diseases & Disorders of the Respiratory System,1.5%,172
+Language,Spanish Only,Diseases & Disorders of the Respiratory System,1.7%,416
+Language,English Only,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.9%,395
+Language,Other/Unknown,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",0.7%,Less than 11
+Language,Spanish Only,"Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast",1.0%,32
+Language,English Only,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.8%,705
+Language,Other/Unknown,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.6%,25
+Language,Spanish Only,"Endocrine, Nutritional & Metabolic Diseases & Disorders",0.9%,92
+Language,English Only,Factors Influencing Health Status & Other Contacts with Health Services,1.1%,117
+Language,Other/Unknown,Factors Influencing Health Status & Other Contacts with Health Services,0.9%,Less than 11
+Language,Spanish Only,Factors Influencing Health Status & Other Contacts with Health Services,0.8%,Less than 11
+Language,English Only,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.6%,"6,002"
+Language,Other/Unknown,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.1%,297
+Language,Spanish Only,"Infectious & Parasitic Diseases, Systemic or Unspecified Sites",2.1%,588
+Language,English Only,"Injuries, Poisonings & Toxic Effects of Drugs",1.5%,516
+Language,Other/Unknown,"Injuries, Poisonings & Toxic Effects of Drugs",1.4%,14
+Language,Spanish Only,"Injuries, Poisonings & Toxic Effects of Drugs",1.6%,35
+Language,English Only,Mental Diseases & Disorders,0.7%,68
+Language,Other/Unknown,Mental Diseases & Disorders,0.8%,Less than 11
+Language,Spanish Only,Mental Diseases & Disorders,1.0%,Less than 11
+Language,English Only,Multiple Significant Trauma,4.0%,344
+Language,Other/Unknown,Multiple Significant Trauma,4.7%,14
+Language,Spanish Only,Multiple Significant Trauma,4.3%,23
+Language,English Only,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",1.9%,343
+Language,Other/Unknown,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.0%,24
+Language,Spanish Only,"Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms",2.0%,49
+Language,English Only,Newborns & Other Neonates with Conditions Originating in Perinatal Period,4.4%,56
+Language,Other/Unknown,Newborns & Other Neonates with Conditions Originating in Perinatal Period,0.0%,0
+Language,Spanish Only,Newborns & Other Neonates with Conditions Originating in Perinatal Period,1.4%,Less than 11
+Language,English Only,Transplants and Tracheostomies (PRE-MDC),13.3%,"1,481"
+Language,Other/Unknown,Transplants and Tracheostomies (PRE-MDC),13.0%,93
+Language,Spanish Only,Transplants and Tracheostomies (PRE-MDC),13.9%,232
+Language,English Only,"Pregnancy, Childbirth & the Puerperium",0.4%,"1,243"
+Language,Other/Unknown,"Pregnancy, Childbirth & the Puerperium",0.2%,12
+Language,Spanish Only,"Pregnancy, Childbirth & the Puerperium",0.3%,49

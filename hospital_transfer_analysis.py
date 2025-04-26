@@ -210,11 +210,11 @@ def shortest_transfer_path(G, source, target):
 
 def main():
     # Configurable file paths
-    ENCOUNTER_CSV = 'Hospital_Transfers_by_Major_Diagnostic_Category__MDC__-Encounters.csv'
-    LOCATION_CSV = 'Hospital_Transfers_by_Major_Diagnostic_Category__MDC__-Locations.csv'
-    OUTCOME_CSV = 'Hospital_Transfers_by_Major_Diagnostic_Category__MDC__-Outcomes.csv'
-    ORIGIN_CSV = '2022-2023-patient-origin-market-share.csv'
-    FACILITY_CSV = 'health_facility_locations.csv'
+    ENCOUNTER_CSV = 'data/Hospital_Transfers_by_Major_Diagnostic_Category__MDC__-Encounters.csv'
+    LOCATION_CSV = 'data/Hospital_Transfers_by_Major_Diagnostic_Category__MDC__-Locations.csv'
+    OUTCOME_CSV = 'data/Hospital_Transfers_by_Major_Diagnostic_Category__MDC__-Outcomes.csv'
+    ORIGIN_CSV = 'data/2022-2023-patient-origin-market-share.csv'
+    FACILITY_CSV = 'data/health_facility_locations.csv'
 
     enc_df = load_and_clean_encounter_data(ENCOUNTER_CSV)
     loc_df = pd.read_csv(LOCATION_CSV)
